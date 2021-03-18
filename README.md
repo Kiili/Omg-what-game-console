@@ -33,7 +33,7 @@ Adjustable sliders can be used for modifying the physics. And obstacles can be a
 
 ### name_ in 2018
 Didn't think a name for it. A stick game, inspired by [Stick RPG](https://www.crazygames.com/game/stick-rpg-complete). <br/>
-First real use of OOP.
+First real use of OOP. Can modify the map and interact with created objects.
 <details>
   <summary>more</summary>
   
