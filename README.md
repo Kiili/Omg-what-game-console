@@ -32,7 +32,7 @@ Adjustable sliders can be used for modifying the physics. And obstacles can be a
 </details>
 
 ### name_ in 2018
-Didn't think a name for it. A stick game, inspired by [Stick RPG](http://www.xgenstudios.com/game.php?keyword=stickrpg). <br/>
+Didn't think a name for it. A stick game, inspired by [Stick RPG](https://www.crazygames.com/game/stick-rpg-complete). <br/>
 First real use of OOP.
 <details>
   <summary>more</summary>
