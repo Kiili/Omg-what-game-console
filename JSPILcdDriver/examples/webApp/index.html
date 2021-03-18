@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <form method="POST" id="f1">
+        <input type="text" id ="textf" size="200" onkeydown="update = true;" />
+		<input type="button" value="reset" onclick="resetF();"/>
+    </form>
+	
+    <script>
+
+        function submitForm() {
+            ready = false;
+            var http = new XMLHttpRequest();
+            http.open("POST", "http://192.168.8.200:8080/", true);
+            http.setRequestHeader("Content-type", "text/plain");
+            var text = "" + document.getElementById("textf").value;
+            http.send(text);
+
+            http.onreadystatechange = function() {
+                if(http.status == 200){
+                    ready = true;
+                }
+            }
+        }
+        var ready = true;
+        var update = false;
+
+        setInterval(() => {
+            if (update && ready) {
+                submitForm();
+                update = false;
+            }
+        }, 300);
+		
+		function resetF(){
+			var http = new XMLHttpRequest();
+            http.open("POST", "http://192.168.8.200:8080/reset", true);
+            http.send();
+		}
+		
+    </script>
+
+</body>
+
+</html>
