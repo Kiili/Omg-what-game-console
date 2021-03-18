@@ -54,7 +54,6 @@ Decided to document it and add some examples.
   
   ![image](https://user-images.githubusercontent.com/31822168/111693646-891fad00-8839-11eb-9555-77bff81fca4c.png)
 </details>
-<br/><br/>
 
 ### Virus in 2020
 A small game, where you have to insert a usb stick into a computer, to win against viruses wanting to infect you. <br/>
@@ -66,4 +65,3 @@ Was made coming from military service to recall some Java, before going to unive
   ![image](https://user-images.githubusercontent.com/31822168/111694340-6e9a0380-883a-11eb-9843-5b81cc03bf60.png)
   ![image](https://user-images.githubusercontent.com/31822168/111694495-9e490b80-883a-11eb-96b0-b0d7b7c11897.png)
 </details>
-<br/><br/>
