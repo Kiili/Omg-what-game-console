@@ -73,8 +73,8 @@ A team project in school, in which we created a multiplayer online top-down 2D r
 <details>
   <summary>more</summary>
   
-  ![image](https://user-images.githubusercontent.com/31822168/118825829-b2a19700-b8c3-11eb-9d62-e1d78ce5df3f.png)
   ![image](https://user-images.githubusercontent.com/31822168/118825503-69514780-b8c3-11eb-95ee-1a7c3bc17700.png)
   ![image](https://user-images.githubusercontent.com/31822168/118825739-9c93d680-b8c3-11eb-8a56-8267fc12d47e.png)
+  ![image](https://user-images.githubusercontent.com/31822168/118825829-b2a19700-b8c3-11eb-9d62-e1d78ce5df3f.png)
 
 </details>
